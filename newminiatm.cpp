@@ -12,6 +12,7 @@ class atm
     long  account_no;
     string name;
     int pin;
+    
     long total_balance;
     long long phone_number;
 
